@@ -1,2 +1,2 @@
 # Philo
-Teck2 EPITECH
+Multithreading C Project - philosophers
